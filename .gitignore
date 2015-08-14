@@ -14,8 +14,7 @@ dist/
 downloads/
 eggs/
 lib/
-lib64/
-parts/
+lib64/parts/
 sdist/
 var/
 *.egg-info/
@@ -99,3 +98,9 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+
+# IPython
+.ipynb_checkpoints/
+#FME
+.log
+.ffs
